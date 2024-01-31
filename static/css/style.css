@@ -1258,7 +1258,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 #players-week-section .single-item .img-area::after{
     position: absolute;
-    content: '02';
+/*     content: '02'; */
     width: 100%;
     height: 60%;
     color: #fff;
